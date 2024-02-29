@@ -20,7 +20,11 @@ SO THAT I can organize and plan my business
 ![database model](./Assets/12-sql-homework-demo-01.png)
 
 # Demo
-<img src="/Assets/sql-demo.gif"><br>
+<<<<<<< HEAD
+[![]](https://www.youtube.com/watch?v=BMRzjiypuMg)
+=======
+
+>>>>>>> 27ff564e73141ed19de22c4c27c9312897c56d71
 <img src="/Assets/sql-demo2.gif"><br>
 
 ## Technologies Used
