@@ -21,7 +21,7 @@ SO THAT I can organize and plan my business
 
 # Demo
 
-[![]](https://www.youtube.com/watch?v=BMRzjiypuMg)
+[![Youtube SQL DEMO]](https://www.youtube.com/watch?v=BMRzjiypuMg)
 
 
 
